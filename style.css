@@ -1,0 +1,125 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#topbar{
+    height:55px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+#logo{
+    color: rgb(0, 0, 0);
+    margin-top:-40px;
+    margin-left:40px;
+    letter-spacing: 3px;
+}
+#logo ul{
+    float:right;  
+    margin-top: -15px;
+    margin-right: 50px;
+}
+#logo ul li{
+    display: inline;
+    margin: 15px;
+}
+#logo ul li a{
+    text-decoration: none;
+    color: black;
+}
+#home img{
+    height: 600px;
+    width: 100%;
+    padding-top: 16px;
+}
+#home h1{
+    margin-left: 50px;
+    margin-top: -65px;
+    letter-spacing: 5px;
+}
+#about img{
+    width: 40%;
+    height: 750px;
+    width: 600px;
+    padding: 100px;
+}
+#about1 h2{
+    width: 70%;
+    font-size: 32px;
+    margin-left:850px;
+    margin-top: -850px;
+    letter-spacing: 5px;
+}
+#about1 p{
+    margin-left: 800px;
+    line-height: 25px;
+    margin-top: 50px; 
+}
+#menu{
+    width: 50%;
+}
+#menu h2{
+    margin-top: 400px;
+    margin-left: 300px;
+    font-size: 32px;
+    letter-spacing: 5px;
+}
+.bread h6{
+    font-size:22px;
+    margin-left: 100px;
+    margin-top: 50px;
+    letter-spacing: 5px;
+}
+.bread p{
+    font-size:16px;
+    margin-left: 100px;
+    margin-top: 20px;  
+}
+#menuimg{
+    width: 45%;
+    margin-left:680px;
+    margin-top: -620px;
+}
+#contact h2{
+    margin-top: 150px;
+    margin-left: 100px;
+    font-size: 32px;
+    letter-spacing: 5px;
+}
+#contact p{
+    margin-left: 100px;
+    margin-top:50px;
+    font-size: 15px;
+    line-height: 25px;
+}
+#contact h3{
+    margin-left: 100px;
+    margin-top: 20px;
+    color: rgb(80, 146, 80);
+}
+.form{
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 1050px;
+    height: 30px;
+}
+.button{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.bt{
+    width:150px;
+    height: 30px;
+}
+#footer{
+    height: 120px;
+    width: 100%;
+    background-color: rgb(232, 232, 232);
+    margin-top: 70px;
+}
+#footer p{
+    text-align: center;
+    padding: 50px;
+}
+#footer a{
+    color: black;
+}
